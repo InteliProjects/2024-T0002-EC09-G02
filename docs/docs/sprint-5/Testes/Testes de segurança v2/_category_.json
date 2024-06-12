@@ -1,0 +1,8 @@
+{
+  "label": "Testes de segurança",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Ao adotar e implementar essas estratégias de mitigação, você pode melhorar significativamente a segurança do Metabase contra os tipos de ataques descritos, protegendo a confidencialidade, integridade e disponibilidade dos seus dados e serviços de dashboard."
+  }
+}
