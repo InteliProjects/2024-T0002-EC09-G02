@@ -1,5 +1,3 @@
-# 2024-T0002-EC09-G02 - Inteli - Instituto de Tecnologia e Liderança 
-
 <p align="center">
 <a href= "https://www.inteli.edu.br/"><img src="docs/static/img/inteli.png" alt="Inteli - Instituto de Tecnologia e Liderança" border="0"></a>
 </p>
